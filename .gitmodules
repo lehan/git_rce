@@ -1,4 +1,4 @@
 [submodule "x/y"]
 	path = A/modules/x
-	url = git@github.com:lehan/hook.git
+	url = https://github.com/lehan/hook.git
 
